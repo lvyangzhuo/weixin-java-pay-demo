@@ -10,4 +10,6 @@
 1. 查看`com.github.binarywang.demo.wxpay.controller.WxPayController`类代码，根据自己需要修改调整相关实现；
 1. 运行Java程序：`com.github.binarywang.demo.wxpay.WxPayDemoApplication`；
 1. 打开网页浏览器，输入想要访问的地址，比如`http://localhost:8080/pay/closeOrder/123`查看效果。
+
+注：仅支持springboot
 	
